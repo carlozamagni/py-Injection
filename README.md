@@ -1,0 +1,1 @@
+![alt text](https://github.com/carlozamagni/py-Injection/raw/master/misc/icon_20561.png "logo by Dara Ullrich from the Noun Project")
